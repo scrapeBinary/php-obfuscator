@@ -9,12 +9,28 @@ Usage
 ---------
 
 ```php
+<?php
 require('Obfuscator.php');
 
 $file = 'file.php';
 
 $ob = new Obfuscator($file);
 $ob->run(); // write file file_encoded.php
+
+```
+Output
+---------
+
+```php
+<?php
+/*
+#################################################
+* Obfuscation provided by NAMDEVEL
+* URL : https://github.com/namdevel/
+* Signature : 8beef589a39326c2ae1a61e620b81ea2fb514e88
+#################################################
+*/
+const _NAMDEVEL_9505e64b=__FILE__;$NAMDEVEL_2d7d91c="\x62\x61\x73\x65\.....
 
 ```
 License
