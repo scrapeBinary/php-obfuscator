@@ -1,5 +1,9 @@
-# PHP Encoder and Obfuscator
+# PHP Obfuscator
+Simple, easy-to-use and effective Obfuscator PHP class.
 
+**Not just a stupid `base64 encoding` script, but a real and effective obfuscation script).**
+
+Ideal to obfuscate some critical pieces of your software such as licensing verification functions.
 Usage
 ---------
 
