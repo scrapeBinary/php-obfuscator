@@ -1,5 +1,5 @@
 <?php
-require('Obfuscator.php');
+require('../Obfuscator.php');
 
 $file = 'file.php';
 
