@@ -1,0 +1,19 @@
+{
+    "name": "namdevel/php-obfuscator",
+    "description": "PHP Encoder and Obfuscator",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "ANAMPEDIA",
+            "email": "namdevel@users.noreply.github.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+	"autoload": {
+        "files":[
+          "Obfuscator.php"
+        ]
+    }
+}
