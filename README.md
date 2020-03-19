@@ -1,4 +1,10 @@
 # PHP Obfuscator
+[![GitHub issues](https://img.shields.io/github/issues/namdevel/php-obfuscator)](https://github.com/namdevel/php-obfuscator/issues)
+[![GitHub forks](https://img.shields.io/github/forks/namdevel/php-obfuscator)](https://github.com/namdevel/php-obfuscator/network)
+[![GitHub stars](https://img.shields.io/github/stars/namdevel/php-obfuscator)](https://github.com/namdevel/php-obfuscator/stargazers)
+[![GitHub license](https://img.shields.io/github/license/namdevel/php-obfuscator)](https://github.com/namdevel/php-obfuscator/blob/master/LICENSE)
+[![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2Fnamdevel%2Fphp-obfuscator)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2Fnamdevel%2Fphp-obfuscator)
+
 Simple, easy-to-use and effective Obfuscator PHP class.
 
 **Not just a stupid `base64 encoding` script, but a real and effective obfuscation script.**
